@@ -4,6 +4,7 @@
 3. Know what PicKey is.
 	- Some resources to understand PicKey : 
 		- https://youtu.be/KedRFg-Qg_Y?si=z_avMTKaUk7up-PI (2 min explainer video)
+		- https://youtu.be/MY7DG6qOmg0 (50 sec explainer)
 		- https://blog.pickey.ai/pickey-ai-the-future-of-password-management/ (Blog explainer)
 		- https://pickey.ai/market/faq.html (faq page)
 		- https://pickey.ai (website)
