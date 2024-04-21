@@ -1,14 +1,13 @@
-## Perquisites to read this document : 
-1. Some idea of [Computer Vision]() (like Tesla Autopilot). PicKey uses this for authentication.
-2. Some idea of how today's Password Managers work. Especially the Master Password that is used in all Password Managers of today.
-3. Know what PicKey is.
-	- Some resources to understand PicKey : 
-		- https://youtu.be/KedRFg-Qg_Y?si=z_avMTKaUk7up-PI (2 min explainer video)
-		- https://youtu.be/MY7DG6qOmg0 (50 sec explainer)
-		- https://blog.pickey.ai/pickey-ai-the-future-of-password-management/ (Blog explainer)
-		- https://pickey.ai/market/faq.html (faq page)
-		- https://pickey.ai (website)
-		- https://pickey.ai/market/market.html (3D, AR Keymoji Store)
+## About this document : 
+1. Some understanding of [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision) may help in understanding this document. PicKey.ai uses this for authentication.
+2. Some idea of how today's Password Managers work would help too. Especially the Master Password that is used in all Password Managers of today.
+3. Resources for a basic overview of PicKey.ai :
+	- [2 min explainer video](https://youtu.be/KedRFg-Qg_Y?si=z_avMTKaUk7up-PI)
+	- [50 sec explainer](https://youtu.be/MY7DG6qOmg0)
+	- [Blog explainer](https://blog.pickey.ai/pickey-ai-the-future-of-password-management/)
+	- [https://pickey.ai/market/faq.html](https://pickey.ai/market/faq.html) (faq page)
+	- [https://pickey.ai](https://pickey.ai) (website)
+	- [https://pickey.ai/market/market.html](https://pickey.ai/market/market.html) (3D, AR Keymoji Store)
 ## PicKey - Novel Features
 1. PicKey leverages human photographic memory to transform visual and audiographic recall into a Master Password (Master Key) that is intuitively memorable.
 2. PicKey harnesses real-world entropy, which is [significantly higher](https://blog.pickey.ai/defying-brute-force-the-unparalleled-strength-of-pickeys-master-key/) than what today's computer systems can achieve. This establishes PicKey’s Master Keys as the most robust Master Passwords available.
