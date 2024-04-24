@@ -35,6 +35,7 @@
 - Delays are introduced randomly in executing critical operations to enhance security.
 - Master Keys are totally anonymous. Only you know which picture and character is your key. Picture of anything around you or an online image or even a public social media post could be your vision secret that nobody knows about. This is unlike face unlock where everyone knows our face (you only have one).
 - PicKey's entire tech-stack is built and deployed privately and does not depend on any external services like vector stores, AI model stores, AI model inference engines or DevOps/deploy pipelines.
+- Data Control - You can delete all of your data at any time (currently via iOS).
 ## PicKey.ai - Technical Features
 1. Hot swappable model updates allow for seamless vision model upgrades with minimal downtime.
 2. AI infrastructure is decoupled from cybersecurity measures to facilitate independent updates, scaling, and management.
