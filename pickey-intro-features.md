@@ -10,8 +10,8 @@
 	- [https://pickey.ai/market/market.html](https://pickey.ai/market/market.html) (3D, AR Keymoji Store)
  - In Summary, PicKey creates a new kind of a Master Password (called the Master Key) from a combination of :
 
-    a) Your favorite picture (leveraging adaptive picture memory)
-    b) An animated 3D character (often has music & sound)
+    - Your favorite picture (leveraging adaptive picture memory)
+    - An animated 3D character (often has music & sound)
 
 	This combination creates a Master Key that you use to login/signup to PicKey. Once in, PicKey manages, saves and autofills all your passwords.
 	
