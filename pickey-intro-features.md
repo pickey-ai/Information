@@ -8,6 +8,15 @@
 	- [https://pickey.ai/market/faq.html](https://pickey.ai/market/faq.html) (faq page)
 	- [https://pickey.ai](https://pickey.ai) (website)
 	- [https://pickey.ai/market/market.html](https://pickey.ai/market/market.html) (3D, AR Keymoji Store)
+ - In Summary, PicKey creates a new kind of a Master Password (called the Master Key) from a combination of :
+
+    a) Your favorite picture (leveraging adaptive picture memory)
+    b) An animated 3D character (often has music & sound)
+
+	This combination creates a Master Key that you use to login/signup to PicKey. Once in, PicKey manages, saves and autofills all your passwords.
+	
+	Imagine creating a Master Key with a picture of your room featuring a roaring virtual dinosaur, or managing all your passwords with a photo of your favorite teddy bear and a dancing robot beside it, or turning that favorite painting on the wall with a hummingbird hovering in front, into a password vault.
+The possibilities are endless, private, personalized, fun and most importantly .. random (your choices for master key, will be naturally unpredictable than mine).
 ## PicKey.ai - Novel Features
 1. PicKey leverages human photographic memory to transform visual and audiographic recall into a Master Password (Master Key) that is intuitively memorable.
 2. PicKey harnesses real-world entropy, which is [significantly higher](https://blog.pickey.ai/defying-brute-force-the-unparalleled-strength-of-pickeys-master-key/) than what today's computer systems can achieve. This establishes PicKey’s Master Keys as the most robust Master Passwords available.
